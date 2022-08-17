@@ -1,6 +1,7 @@
 # Alphabet
 
 |command|user.letter|
+|---|---|
 |air|a|
 |bat|b|
 |cap|c|
